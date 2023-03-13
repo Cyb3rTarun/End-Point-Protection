@@ -1,0 +1,60 @@
+/home/kali/Desktop/Montoring.py - Low ✗.
+--------------------
+/home/kali/Desktop/ipvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/packet_sniffer.py - Low ✗.
+--------------------
+/home/kali/Desktop/dnsvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/sniffer.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/rd_dnsvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Project/blocked_domain.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Project/maliciousfiles.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Project/Domain_check.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/dga.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/ipvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Project/process.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/rd_ipvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Project/send_mail.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/remove_dup.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/find_malicious.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/complete_code.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/Traffic_montior.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/dnsvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/Montoring.py - Low ✗.
+--------------------
+/home/kali/Desktop/Montoring.py - Low ✗.
+--------------------
+/home/kali/Desktop/ipvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/packet_sniffer.py - Low ✗.
+--------------------
+/home/kali/Desktop/Montoring.py - Low ✗.
+--------------------
+/home/kali/Desktop/Montoring.py - Low ✗.
+--------------------
+/home/kali/Desktop/ipvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/packet_sniffer.py - Low ✗.
+--------------------
+/home/kali/Desktop/dnsvalues.txt - Low ✗.
+--------------------
+/home/kali/Desktop/sniffer.py - Low ✗.
+--------------------
+/home/kali/Desktop/Project/rd_dnsvalues.txt - Low ✗.
+--------------------

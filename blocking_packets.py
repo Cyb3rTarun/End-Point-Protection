@@ -1,7 +1,8 @@
 import subprocess
 
-blocklist_file = "blacklist.txt"
+blocklist_file = "blocked_domain.txt"
 
+allowed_file = "allowed_domain.txt"
 
 def block_packets():
 
@@ -14,9 +15,9 @@ def block_packets():
 
 def allow_packets():
 
-    file = open(blocklist_file)
+    file = open(allowed_file)
     blacklisted = file.read().splitlines()
     for ip in blacklisted:
         subprocess.run(["iptables", "-D", "INPUT", "-s", ip, "-j", "DROP"])
 
-allow_packets()
+block_packets()
